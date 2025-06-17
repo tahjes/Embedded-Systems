@@ -1,0 +1,16 @@
+# Ignore Atmel Studio project files and others
+*.cproj
+*.atsln
+*.xml
+
+# Ignore build output files
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.lss
+
+# Ignore build folders
+Debug/
+Release/
